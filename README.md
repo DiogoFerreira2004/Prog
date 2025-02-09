@@ -20,6 +20,6 @@ A starting code was provided with the initial code skeletons, along with support
 
 ### Members (Class 4 Group 7)
 
-Diogo Ferreira
-Guilherme Silva
-Júlio Santos
+- Diogo Ferreira
+- Guilherme Silva
+- Júlio Santos
